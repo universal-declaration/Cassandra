@@ -103,8 +103,7 @@ This is a living proposal. We welcome:
 - Technical improvements to enforcement mechanisms
 
 ## License
-
-This proposal is released into the public domain. No rights reserved. May it serve the long-term interests of the American people.
+This work is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 ---
 
